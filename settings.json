@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "lifesteelSMP-S2.aternos.me:21787",
+    "port": ,
     "version": "",
     "try-creative": false
   },
