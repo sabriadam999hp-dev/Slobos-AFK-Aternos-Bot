@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifesteelSMP-S2.aternos.me:21787",
-    "port": ,
+    "ip": "HARDLIFE-SMPs.aternos.me",
+    "port":24313 ,
     "version": "",
     "try-creative": false
   },
